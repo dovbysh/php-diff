@@ -1,3 +1,5 @@
+Use https://github.com/phpspec/php-diff instead of this package.
+
 PHP Diff Class
 --------------
 
